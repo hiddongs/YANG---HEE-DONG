@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&text=매일%20성장하는%20풀스택%20개발자%20지망생&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 풀스택을 향해 달려가는 hiddongs입니다 🔥 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  풀스택을 향해 달려가는 hiddongs입니다 🔥 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> JavaScript, TypeScript, Java, Spring으로 웹을 개발하고</li>React Native로 앱까지 도전하고 있습니다.</li></li>현재 식단 관리 앱을 개발하며 실전 감각을 키우는 중이고,</li>앞으로도 새로운 프로젝트에 계속 도전할 예정입니다.</li></li>배움과 성장을 멈추지 않는 개발자,</li>그것이 제가 추구하는 방향입니다. 💪 </div> 
     </div>
     <div align= "center">
